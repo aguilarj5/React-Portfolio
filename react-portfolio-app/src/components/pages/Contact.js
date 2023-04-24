@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Contact() {
 	return (
-		<div style={{backgroundColor: "#8AB0AB"}}>
+		<div>
 			<h1>Contact</h1>
 			<form>
 				<div class="form-group">

@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div style={{backgroundColor: "#8AB0AB"}}>
+    <div>
       <h1>About Me Page</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
