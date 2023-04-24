@@ -3,7 +3,7 @@ import React from 'react';
 export default function Portfolio() {
 	return (
 		<div class="card bg-dark text-white">
-			<img src="..." class="card-img" alt="..."></img>
+			<img src="" class="card-img" alt="..."></img>
 			<div class="card-img-overlay">
 				<h5 class="card-title">Card title</h5>
 				<p class="card-text">
